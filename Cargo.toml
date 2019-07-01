@@ -5,3 +5,5 @@ authors = ["Tate, Hongliang Tian <tatetian@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+csv = "1.1"
+indoc = "0.3"
